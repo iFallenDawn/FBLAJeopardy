@@ -1,0 +1,10 @@
+How many divisions are there in FBLA? (Enter the numerical value) (10)
+4
+FBLA originates from _________ University (20)
+Columbia
+What is the abbreviated name for the FBLA postsecondary division created in 1958? (30)
+PBL
+What state became the first FBLA chapter? (40)
+Iowa
+Where is the FBLA-PBL headquarters located? (City, town) (50)
+Reston, Virginia

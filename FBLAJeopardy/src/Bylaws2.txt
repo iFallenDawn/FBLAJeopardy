@@ -1,0 +1,10 @@
+How many articles are there in the FBLA-PBL Bylaws? (Enter the numerical value) (10)
+13
+How many administrative regions are there? (Enter the numerical value) (20)
+5
+The national elected officers of FBLA shall be a president, five vice presidents representing the respective regions, a secretary, and a ______. (30)
+treasurer
+Who does the president (in the National FBLA Officers) appoint? (Single word) (40)
+parliamentarian
+The parliamentarian shall serve as an _________ member of the national executive council. (Hint: ___-___) (50)
+ex-officio

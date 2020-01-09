@@ -1,0 +1,10 @@
+How many days does the NLC last? (Enter the numerical value) (10)
+4
+What season does the NLC take place in? (20)
+Summer
+This year's NLC is held in _________. (City, State) (30)
+San Antonio, Texas
+At what conference do you need to win a competitive event in to be given a chance to compete in Nationals? (40)
+State Leadership Conference
+What two-day seminar is held in conjunction with the National Leadership Conference? (Full name) (50)
+Institute for Leaders

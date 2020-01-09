@@ -1,0 +1,10 @@
+How many goals does the FBLA-PBL have? (Enter the numerical value) (10)
+9
+What is the abbreviated name for the FBLA junior high and middle school division? (Enter the acronym) (20)
+FBLA-ML
+Where was the first high school chapter chartered? (City, State) (30)
+Johnson City, Tennessee
+What is the full name of the flagship publication for FBLA and FBLA-Middle students and advisers? (40)
+Tomorrow's Business Leader
+What is the full name of the publication exclusively for PBL members who are about to launch their careers in business? (50)
+PBL Business Leader
